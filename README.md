@@ -1,5 +1,4 @@
- 
-<h1 align="center">
+ 1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Oves+Shikalgar;ECS+Student;Embedded+Systems+Learner;Go+%7C+Docker+Developer;Future+Engineer+🚀" />
 </h1>
 
@@ -34,12 +33,11 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisshikalgar7-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisshikalgar7-boop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -47,7 +45,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=owaisshikalgar7-boop&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
@@ -55,7 +53,7 @@
 ## 📈 Activity Graph (Animated Feel)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owaisshikalgar7-boop&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -63,43 +61,17 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=owaisshikalgar7-boop&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🤖 Dev Terminal (Animated Style)
-
-```bash
-> booting profile...
-> loading skills █████████████ 100%
-> status: ACTIVE 🔥
-> mode: BUILDING & LEARNING 🚀
-> focus: Embedded + Software Fusion ⚡
-```
-
----
-
-## 🌀 Dynamic Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+ 
 
 ---
 
 ## 👁️ Visitors Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=owaisshikalgar7-boop&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## ⚡ Motto
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Break.+Fix.+Repeat.;Future+Embedded+Engineer;Consistency+is+Power+🔥" />
-</p>
-
----
