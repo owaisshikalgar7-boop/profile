@@ -34,16 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaisshikalgar7-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisshikalgar7-boop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
-## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=owaisshikalgar7-boop&theme=tokyonight&hide_border=true&background=0d1117" />
