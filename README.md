@@ -1,5 +1,4 @@
- 1 align="center">
-  <img> src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Oves+Shikalgar;ECS+Student;Embedded+Systems+Learner;Go+%7C+Docker+Developer;Future+Engineer+🚀" />
+ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Oves+Shikalgar;ECS+Student;Embedded+Systems+Learner;Go+%7C+Docker+Developer;Future+Engineer+🚀" />
 </h1>
 
 ---
