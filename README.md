@@ -1,4 +1,5 @@
- src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Oves+Shikalgar;ECS+Student;Embedded+Systems+Learner;Go+%7C+Docker+Developer;Future+Engineer+🚀" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Oves+Shikalgar;ECS+Student;Embedded+Systems+Learner;Go+%7C+Docker+Developer;Future+Engineer+🚀" />
 </h1>
 
 ---
@@ -7,11 +8,11 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* 🎓 BTech ECS (2nd Year)
-* ⚡ Exploring **Embedded Systems & Software**
-* 🐳 Working with **Docker & Go**
-* 🔧 Love **Hardware + Software Integration**
-* 📫 Email: **[oves2206@gmail.com](mailto:oves2206@gmail.com)**
+- 🎓 BTech ECS (2nd Year)  
+- ⚡ Exploring **Embedded Systems & Software**  
+- 🐳 Working with **Docker & Go**  
+- 🔧 Love **Hardware + Software Integration**  
+- 📫 Email: **oves2206@gmail.com**
 
 ---
 
@@ -32,6 +33,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +51,7 @@
 
 ---
 
-## 📈 Activity Graph (Animated Feel)
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=owaisshikalgar7-boop&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
@@ -62,10 +64,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=owaisshikalgar7-boop&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
- 
 
 ---
 
